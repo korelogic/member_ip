@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension id="members_ip_address" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+<extension id="member_ip" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Member IP Address</name>
 	<description>Works in conjunction with the Members extension and logs a member's IP Address.</description>
-	<repo type="github">https://github.com/korelogic/members_ip_address</repo>
+	<repo type="github">https://github.com/korelogic/member_ip</repo>
 	<types>
 		<type>Field</type>
 	</types>
