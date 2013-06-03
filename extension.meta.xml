@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="members_ip_address" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Member IP Address</name>
+	<description>Works in conjunction with the Members extension and logs a member's IP Address.</description>
+	<repo type="github">https://github.com/korelogic/members_ip_address</repo>
+	<types>
+		<type>Field</type>
+	</types>
+	<authors>
+		<author>
+			<name github="lewiswharf" symphony="Korelogic">Michael Hay</name>
+			<website>http://korelogic.co.uk</website>
+		</author>
+		<author>
+			<name github="lewiswharf" symphony="Lewis">Mark Lewis</name>
+			<website>http://casadelewis.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2013-05-29" min="2.2.2" max="2.2.x">
+			- Initial release
+		</release>
+	</releases>
+</extension>
